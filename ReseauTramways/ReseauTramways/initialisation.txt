@@ -1,0 +1,26 @@
+4
+
+4 3
+Musée 30 10 30
+Gare 30 200 30
+Europe 30 400 30
+Campus 30 600 30
+1 3 2
+
+3 2
+Gare 30 20 140
+Château 30 200 140
+Orangerie 30 500 140
+6 1
+
+3 1
+République 30 5 260
+Concorde 30 300 260
+Gare 30 600 260
+5
+
+3 5
+Concorde 30 50 370
+Château 30 400 370
+Opéra 30 580 370
+4 4 4 4 4

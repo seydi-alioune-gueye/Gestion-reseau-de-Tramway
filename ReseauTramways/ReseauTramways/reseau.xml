@@ -1,0 +1,50 @@
+<reseau>
+    <ligne>
+        <arrets>
+            <arret nom="Musée" duree="30" x="10" y="60"/>
+            <arret nom="Gare" duree="30" x="300" y="60"/>
+            <arret nom="Europe" duree="30" x="400" y="60"/>
+            <arret nom="Campus" duree="30" x="600" y="60"/>
+        </arrets>
+        <trams>
+            <tram vitesse="1"/>
+            <tram vitesse="3"/>
+            <tram vitesse="2"/>
+        </trams>
+    </ligne>
+    <ligne>
+        <arrets>
+            <arret nom="Gare" duree="30" x="20" y="170"/>
+            <arret nom="Château" duree="30" x="200" y="170"/>
+            <arret nom="Orangerie" duree="30" x="500" y="170"/>
+        </arrets>
+        <trams>
+            <tram vitesse="6"/>
+            <tram vitesse="1"/>
+        </trams>
+    </ligne>
+    <ligne>
+        <arrets>
+            <arret nom="République" duree="30" x="5" y="290"/>
+            <arret nom="Concorde" duree="30" x="300" y="290"/>
+            <arret nom="Gare" duree="30" x="600" y="290"/>
+        </arrets>
+        <trams>
+            <tram vitesse="5"/>
+        </trams>
+    </ligne>
+    <ligne>
+        <arrets>
+            <arret nom="Concorde" duree="30" x="50" y="400"/>
+            <arret nom="Château" duree="30" x="400" y="400"/>
+            <arret nom="Opéra" duree="30" x="580" y="400"/>
+        </arrets>
+        <trams>
+            <tram vitesse="4"/>
+            <tram vitesse="4"/>
+            <!--tram vitesse="4"/>
+            <tram vitesse="4"/-->
+            <tram vitesse="4"/>
+        </trams>
+    </ligne>
+</reseau>
